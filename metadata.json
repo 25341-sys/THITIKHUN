@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Face Gender Detector",
+  "description": "An application that uses the camera to detect faces and identify gender, drawing colored bounding boxes around them based on the perceived gender.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
